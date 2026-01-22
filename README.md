@@ -12,4 +12,6 @@ Un projet mené par quelques étudiants dans l'ombre pour faciler la vie d'autre
 
 Ce code n'a pas été codé par des humains mais par une IA. C'est une école de géomètre, pas d'informatique. 
 
+Certaines parties ont été masqués ou ne sont pas disponible (ADECal.ics, edt_IG1_complet.json) pour la confidentialité.
+
 Amusez vous.
