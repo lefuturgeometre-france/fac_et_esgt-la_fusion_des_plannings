@@ -1,0 +1,43 @@
+MATCH: TD ESGT Thermodynamique 1 + Salle Salle C03
+MATCH: TD ESGT Statistiques Descriptives + Salle Salle C03
+MATCH: TD ESGT Mathématiques pour la physique + Salle Salle C03
+MATCH: TD ESGT Algorithmique et programmation 2 + Salle Salle C03
+MATCH: TDC Géométrie 2 + Salle Salle C03
+MATCH: TD ESGT Thermodynamique 1 + Salle Salle C03
+MATCH: TD ESGT Statistiques Descriptives + Salle Salle C03
+MATCH: TD ESGT Statistiques Descriptives + Salle Salle C03
+MATCH: TD ESGT Algorithmique et programmation 2 + Salle Salle C03
+MATCH: TD ESGT Electronique 1 + Salle Salle C03
+MATCH: TD ESGT Thermodynamique 1 + Salle Salle C03
+MATCH: TD ESGT Thermodynamique 1 + Salle Salle C03
+MATCH: TD ESGT Electronique 1 + Salle Salle C03
+MATCH: TDC Géométrie 2 + Salle Salle C03
+MATCH: TD ESGT Analyse + Salle Salle C03
+MATCH: TD ESGT Electronique 1 + Salle Salle C03
+MATCH: TD ESGT Mécanique 2 + Salle Salle C03
+MATCH: TD ESGT Analyse + Salle Salle C03
+MATCH: TD ESGT Statistiques Descriptives + Salle Salle C03
+MATCH: TD ESGT Electronique 1 + Salle Salle C03
+MATCH: TD ESGT Algorithmique et programmation 2 + Salle Salle C03
+MATCH: TD ESGT Analyse + Salle Salle C03
+MATCH: TD ESGT Mécanique 2 + Salle Salle C03
+MATCH: TD ESGT Analyse + Salle Salle C03
+MATCH: TD ESGT Analyse + Salle Salle C03
+MATCH: TD ESGT Mathématiques pour la physique + Salle Salle C03
+MATCH: TD ESGT Mécanique 2 + Salle Salle C03
+MATCH: TD ESGT Statistiques Descriptives + Salle Salle C03
+MATCH: TD ESGT Mécanique 2 + Salle Salle C03
+MATCH: TD ESGT Electronique 1 + Salle Salle C03
+MATCH: TD ESGT Mathématiques pour la physique + Salle Salle C03
+MATCH: TD ESGT Electronique 1 + Salle Salle C03
+MATCH: TD ESGT - Ecrire pour communiquer 2 + Salle Salle C03
+MATCH: TD ESGT Mécanique 2 + Salle Salle C03
+MATCH: TD ESGT Electronique 1 + Salle Salle C10
+MATCH: TD ESGT Statistiques Descriptives + Salle Salle C10
+MATCH: TDC Géométrie 2 + Salle Salle C03
+MATCH: TD ESGT Mathématiques pour la physique + Salle Salle C03
+MATCH: TD ESGT Analyse + Salle Salle C03
+MATCH: TD ESGT Thermodynamique 1 + Salle Salle C03
+MATCH: TD ESGT Mécanique 2 + Salle Salle C03
+MATCH: TD ESGT Analyse + Salle Salle C03
+MATCH: TD ESGT Statistiques Descriptives + Salle Salle C03
