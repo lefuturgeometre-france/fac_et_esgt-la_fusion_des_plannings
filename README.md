@@ -11,4 +11,4 @@ Certaines parties ont été masqués ou ne sont pas disponible (ADECal.ics, edt_
 Amusez vous.
 
 
-Le contenu est généré par IA. C'est une école de géomètre, pas d'informatique. Un logiciel créé par quelques étudiants dans l'ombre pour d'autres . . .
+Le contenu est généré par IA. C'est une école de géomètre, pas d'informatique. 
